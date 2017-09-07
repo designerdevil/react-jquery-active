@@ -9,6 +9,7 @@ const ServiceHolder = (props) => {
                		<p>{serviceType}</p> 
                		<p>{props.renderdata.metadata.resourceVersion}</p>
                	</div>
+                <div className="service-name">{data.kind}</div>
             </div>
         )
     };

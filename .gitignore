@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+
+# Dependency directories
+node_modules
+jspm_packages
+bower_components
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# mock db file
+db.json
+
+# dist folder
+dist
+
+README.html
+
+src/react/package-lock.json
